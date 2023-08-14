@@ -1,10 +1,3 @@
-<div align="center">
-
-# Editor.io
-## https://editor.soumya-jit.tech/
-
-</div>
-
 ## Online code editor for HTML, CSS and Javascript to discover frontend code
 
 <div align="center">
